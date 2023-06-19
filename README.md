@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-[Provide a brief introduction about yourself. Talk about your background, experience, and interests.]
+[Experienced Full Stack Developer proficient in Java, Spring Boot, Angular, and React, with a strong focus on building scalable web applications and microservices architectures.]
 
 ## Blog
 
@@ -38,12 +38,7 @@ You can find my technical blog at [https://www.zosacademy.com/blog]. I frequentl
 
 ## Contact Me
 
-- Email: [Your Email Address](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+- Email: [codewithzosh@gmail.com]
 
-## Resume
-
-You can find my detailed resume [here](link-to-resume).
 
 
