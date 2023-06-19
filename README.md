@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[Passionate about creating dynamic and intuitive user interfaces, I specialize in developing mobile applications using React Native and have expertise in Node.js for backend development.]
+Passionate about creating dynamic and intuitive user interfaces, I specialize in developing mobile applications using React Native and have expertise in Node.js for backend development.
 
 ## Skills
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-[Experienced Full Stack Developer proficient in Java, Spring Boot, Angular, and React, with a strong focus on building scalable web applications and microservices architectures.]
+Experienced Full Stack Developer proficient in Java, Spring Boot, Angular, and React, with a strong focus on building scalable web applications and microservices architectures.
 
 ## Blog
 
