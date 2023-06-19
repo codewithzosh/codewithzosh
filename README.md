@@ -34,11 +34,11 @@ Experienced Full Stack Developer proficient in Java, Spring Boot, Angular, and R
 
 ## Blog
 
-You can find my technical blog at [https://www.zosacademy.com/blog]. I frequently write about topics related to Java, Spring Boot, Angular, React, and more.
+You can find my technical blog at https://www.zosacademy.com/blog. I frequently write about topics related to Java, Spring Boot, Angular, React, and more.
 
 ## Contact Me
 
-- Email: [codewithzosh@gmail.com]
+- Email: codewithzosh@gmail.com
 
 
 
