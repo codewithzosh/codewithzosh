@@ -32,15 +32,9 @@ Here are some ideas to get you started:
 
 [Provide a brief introduction about yourself. Talk about your background, experience, and interests.]
 
-## Projects
-
-- [Project 1](link-to-project): Brief description of the project.
-- [Project 2](link-to-project): Brief description of the project.
-- [Project 3](link-to-project): Brief description of the project.
-
 ## Blog
 
-You can find my technical blog at [link-to-blog](link-to-blog). I frequently write about topics related to Java, Spring Boot, Angular, React, and more.
+You can find my technical blog at [https://www.zosacademy.com/blog]. I frequently write about topics related to Java, Spring Boot, Angular, React, and more.
 
 ## Contact Me
 
