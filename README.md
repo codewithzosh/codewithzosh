@@ -14,3 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm [Your Name] 👋
+
+[One-line description of yourself and your skills.]
+
+## Skills
+
+- Java
+- Spring Boot
+- Angular
+- React
+- React Native
+- Node.js
+- Microservices
+
+## About Me
+
+[Provide a brief introduction about yourself. Talk about your background, experience, and interests.]
+
+## Projects
+
+- [Project 1](link-to-project): Brief description of the project.
+- [Project 2](link-to-project): Brief description of the project.
+- [Project 3](link-to-project): Brief description of the project.
+
+## Blog
+
+You can find my technical blog at [link-to-blog](link-to-blog). I frequently write about topics related to Java, Spring Boot, Angular, React, and more.
+
+## Contact Me
+
+- Email: [Your Email Address](mailto:youremail@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+
+## Resume
+
+You can find my detailed resume [here](link-to-resume).
+
+
