@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **zoshila/zoshila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm [Your Name] 👋
 
-[One-line description of yourself and your skills.]
+[Passionate about creating dynamic and intuitive user interfaces, I specialize in developing mobile applications using React Native and have expertise in Node.js for backend development.]
 
 ## Skills
 
